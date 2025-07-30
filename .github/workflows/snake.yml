@@ -13,9 +13,12 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: HadesIsGod
-          outputs: |
-            ./output/snake-dark.svg
+  github_user_name: ${{ github.repository_owner }}
+  outputs: |
+    ./dist/github-contribution-grid-snake.svg
+  color_snake: '#00ff00'          # Neon green snake
+  color_dots: '#000000,#222222'   # Dark dots
+  background: '#000000'           # Black background
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
