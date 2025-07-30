@@ -1,4 +1,5 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 What's Up?</h1>
+<h3 align="center">I'm Harshal — a builder, thinker, and coder on a mission to craft tech that matters 🚀</h3>
 
 ###
 
