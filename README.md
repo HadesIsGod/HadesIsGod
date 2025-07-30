@@ -55,7 +55,7 @@
 ###
 
 <picture>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HadesIsGod/HadesIsGod/output/pacman-contribution-graph.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/HadesIsGod/HadesIsGod/main/output/snake-dark.svg">
 </picture>
 
 ###
