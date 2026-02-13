@@ -1,62 +1,82 @@
-<h1 align="center">Full Stack Dreamer | Python Whisperer | Future CTO 🧠</h1>
-<h3 align="center">I'm Harshal — a builder, thinker, and coder on a mission to craft tech that matters 🚀</h3>
+<h1 align="center">Harshal Pawar</h1>
+<h3 align="center">Full-Stack Developer | Backend Engineer | AI/ML Explorer</h3>
 
-###
+<p align="center">
+Building scalable systems today to lead technology tomorrow 🚀
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-</div>
 
-###
+## 👨‍💻 About Me
+
+- 🎓 Incoming Master's Student in Computer Science  
+- 🔥 Passionate about Backend Architecture & System Design  
+- 🧠 Strong interest in Data Structures & Problem Solving  
+- 🤖 Exploring AI/ML with Python & TensorFlow  
+- 🚀 Long-term goal: Build and lead impactful technology products  
+
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,python,tensorflow,tailwind,js,html,css" />
 </div>
 
-###
+
+
+## 🎯 Current Focus
+
+- Scalable API Design (Node.js + Express)
+- Authentication & Security (JWT, Middleware Architecture)
+- Data Structures & Algorithms
+- Cloud & Deployment Fundamentals
+
+
+
+## 📌 Featured Projects
+
+- 🚀 **TaskFlow** – Backend system built with Node.js & Express following MVC architecture, implementing authentication, middleware handling, and structured API design  
+
+- ⚔️ **Excalibur** – Capstone project developed for Mumbai University, designed and implemented a scalable full-stack application with structured backend architecture and optimized frontend integration  
+
+- 🤖 **AI/ML Projects** – Machine learning experimentation and model building using Python, NumPy, Pandas, and TensorFlow  
+
+
+
+
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HadesIsGod&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=HadesIsGod&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=HadesIsGod&theme=dracula&hide_border=true" height="160" />
 </div>
 
-###
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HadesIsGod/HadesIsGod/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HadesIsGod/HadesIsGod/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HadesIsGod/HadesIsGod/output/pacman-contribution-graph-dark.svg">
-</picture>
+## 📫 Connect With Me
 
-###
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/YOUR_LINK_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://github.com/HadesIsGod">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://aws.amazon.com">
+  <img src="https://img.shields.io/badge/AWS%20Learner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+
+</p>
